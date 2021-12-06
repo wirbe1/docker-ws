@@ -1,0 +1,21 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "children" : [ {
+    "name" : "de.telekom.supersite.SuperTest",
+    "children" : [ {
+      "name" : "userCanSearchAnyKeyword",
+      "uid" : "1ab5b05990aa3128",
+      "parentUid" : "e54ee9a82ebb51ef14163898891b1f3f",
+      "status" : "failed",
+      "time" : {
+        "start" : 1638460817644,
+        "stop" : 1638460874274,
+        "duration" : 56630
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "e54ee9a82ebb51ef14163898891b1f3f"
+  } ],
+  "name" : "suites"
+}

@@ -1,0 +1,5 @@
+[ {
+  "name" : "Maven",
+  "type" : "maven",
+  "buildName" : "Selenide + Allure + JUnit Example"
+} ]

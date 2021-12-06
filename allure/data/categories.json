@@ -1,0 +1,25 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "Test userCanSearchAnyKeyword(de.telekom.supersite.SuperTest) failed.\n9 checks failed\n\nFAIL #1: Element should have text 'I`m gonna be tested' {By.id: test_me}\nElement: '<div id=\"test_me\">I'm gonna be tested</div>'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460836784.0.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460836784.0.html\nTimeout: 4 s.\n\nFAIL #2: Element should have text 'I`m gonna be tested' {By.id: test_me}\nElement: '<p id=\"test_me\">I'm gonna be tested</p>'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460841846.1.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460841846.1.html\nTimeout: 4 s.\n\nFAIL #3: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460846580.2.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460846580.2.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n\nFAIL #4: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460851141.3.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460851141.3.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n\nFAIL #5: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460855892.4.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460855892.4.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n\nFAIL #6: Element should have text 'I`m gonna be tested' {By.id: test_me}\nElement: '<p id=\"test_me\">I'm gonna be tested</p>'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460860401.5.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460860401.5.html\nTimeout: 4 s.\n\nFAIL #7: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460864943.6.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460864943.6.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n\nFAIL #8: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460869442.7.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460869442.7.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n\nFAIL #9: Element not found {By.id: test_me}\nExpected: text 'I`m gonna be tested'\nScreenshot: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460873912.8.png\nPage source: file:/builds/testopstraining/group4/super-site/tests/build/reports/tests/1638460873912.8.html\nTimeout: 4 s.\nCaused by: NoSuchElementException: no such element: Unable to locate element: {\"method\":\"css selector\",\"selector\":\"#test_me\"}\n",
+      "children" : [ {
+        "name" : "userCanSearchAnyKeyword",
+        "uid" : "1ab5b05990aa3128",
+        "parentUid" : "1c8ea67b09ff43513b862f83f4b7305b",
+        "status" : "failed",
+        "time" : {
+          "start" : 1638460817644,
+          "stop" : 1638460874274,
+          "duration" : 56630
+        },
+        "flaky" : false,
+        "parameters" : [ ]
+      } ],
+      "uid" : "1c8ea67b09ff43513b862f83f4b7305b"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ],
+  "name" : "categories"
+}

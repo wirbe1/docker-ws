@@ -1,0 +1,17 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "children" : [ {
+    "name" : "userCanSearchAnyKeyword",
+    "uid" : "1ab5b05990aa3128",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "failed",
+    "time" : {
+      "start" : 1638460817644,
+      "stop" : 1638460874274,
+      "duration" : 56630
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ],
+  "name" : "behaviors"
+}

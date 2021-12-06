@@ -1,0 +1,21 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "de.telekom.supersite",
+    "children" : [ {
+      "name" : "userCanSearchAnyKeyword",
+      "uid" : "1ab5b05990aa3128",
+      "parentUid" : "cc540a78f9defe959cdde6aebbc53010",
+      "status" : "failed",
+      "time" : {
+        "start" : 1638460817644,
+        "stop" : 1638460874274,
+        "duration" : 56630
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "de.telekom.supersite"
+  } ],
+  "name" : "packages"
+}
